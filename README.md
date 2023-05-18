@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Full Stack Development
 - ⚡ Fun fact: i'm a humble person
+
+
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,cs,css,discord,django,figma,firebase,git,html,java,js,jquery,laravel,linux,mysql,nodejs,php,py,unity,vscode,)](https://skillicons.dev)
